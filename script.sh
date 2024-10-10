@@ -21,19 +21,6 @@ docker-compose --version
 sudo groupadd docker
 sudo usermod -aG docker $USER
 
-# UniChain Node Kurulumu
-git clone https://github.com/Uniswap/unichain-node
-cd unichain-node
-
-
-
-# UniChain Node'u Çalıştırma
-docker compose up -d
-
-# Kurulum Doğrulama
-curl -d '{"id":1,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}' \
-  -H "Content-Type: application/json" http://localhost:8545
-
 echo "Sistem gereksinimleri kuruldu"
 
 echo -e "\n###############################"
