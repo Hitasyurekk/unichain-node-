@@ -20,8 +20,11 @@
 
 Repo kurulumu 
 
-git clone https://github.com/Hitasyurekk/unichain-node-.git
-cd unichain-node-
+```
+wget https://raw.githubusercontent.com/Hitasyurekk/unichain-node-/main/script.sh
 chmod +x script.sh
-./script.sh
+./script.sh 
+```
+
+
 
