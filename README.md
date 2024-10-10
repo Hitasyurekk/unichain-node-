@@ -10,10 +10,13 @@
 
 ### Sistem gereksinimleri
 
-*CPU 4* 
-*Ram +6 GB*
-*SDD +150*
-*Ubuntu 22.04+*
+| **Gereksinim**        | **Özellik**   |
+|-----------------------|---------------|
+| **CPU**               | 4 Çekirdek    |
+| **RAM**               | 6 GB ve üzeri |
+| **SSD**               | 150 GB ve üzeri |
+| **İşletim Sistemi**   | Ubuntu 22.04 ve üzeri |
+
 
 Repo kurulumu 
 
