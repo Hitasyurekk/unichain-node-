@@ -10,10 +10,10 @@
 
 ### Sistem gereksinimleri
 
-CPU 4 
-Ram +6 GB
-SDD +150 
-Ubuntu 22.04+
+*CPU 4* 
+*Ram +6 GB*
+*SDD +150*
+*Ubuntu 22.04+*
 
 Repo kurulumu 
 
