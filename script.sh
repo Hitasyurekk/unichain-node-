@@ -25,9 +25,7 @@ sudo usermod -aG docker $USER
 git clone https://github.com/Uniswap/unichain-node
 cd unichain-node
 
-# EndPoint Ayarlarını Yapma
-echo "DRPC=https://drpc.org?ref=8dd4b5" >> .env.sepolia
-echo "Quick Node=https://refer.quicknode.com/?via=Z" >> .env.sepolia
+
 
 # UniChain Node'u Çalıştırma
 docker compose up -d
