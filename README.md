@@ -29,8 +29,8 @@ chmod +x script.sh
 Gerekli uygulamaları indirdikten sonra Unichain node dosyalarını indirip düzenleme yapacağız.
 
 git clone https://github.com/Uniswap/unichain-node
-Copy
 cd unichain-node
 
+nano .env.sepolia
 
 
