@@ -7,3 +7,10 @@
 *2. kısım Contrat deploy rehberidir.*
 
 # 1. kısım Node Rehberi
+
+### Sistem gereksinimleri
+
+CPU 4 
+Ram +6 GB
+SDD +150 
+Ubuntu 22.04+
